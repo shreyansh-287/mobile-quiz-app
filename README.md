@@ -1,18 +1,19 @@
-# Mobile quiz_app
-Made a mobile quiz app where the user can give the quiz 
-Quiz App
-Overview
+# Quiz App
+
+#Overview
 The Quiz App is a dynamic and engaging mobile application designed to facilitate interactive quizzes for users. The app allows users to participate in a series of multiple-choice questions (MCQs), guiding them through a seamless journey of learning and assessment. The app incorporates various features to enhance the user experience, including dynamic question rendering, result tracking, and an option to restart the quiz with a shuffled question order.
 
-Features
-Dynamic Question Rendering
+#Features
+
+##Dynamic Question Rendering
 The app dynamically renders questions on the screen, providing users with a continuous flow of new challenges. The implementation leverages Flutter's widget system to efficiently update the user interface and display relevant content based on the user's progress.
 
 Flutter Properties Used:
 
-Stateful Widgets: Used to manage the state of the app, allowing for dynamic updates and re-rendering of the UI when new questions are presented.
-ListView Widget: Utilized to create a scrollable list of questions, ensuring a smooth transition between questions.
-User Answer Handling
+####Stateful Widgets: Used to manage the state of the app, allowing for dynamic updates and re-rendering of the UI when new questions are presented.
+####ListView Widget: Utilized to create a scrollable list of questions, ensuring a smooth transition between questions.
+
+###User Answer Handling
 Users can select answers for each question, and upon selection, the app redirects them to the next page to reveal the subsequent question. The app captures and stores user responses to evaluate performance at the end of the quiz.
 
 Flutter Properties Used:
