@@ -59,8 +59,7 @@ Enjoy the dynamic quiz experience and challenge yourself with shuffled questions
 
 ## Contributors
 
-- [Your Name]
-- [Additional Contributors]
+*Shreyansh Pathak*
 
 ## License
 
