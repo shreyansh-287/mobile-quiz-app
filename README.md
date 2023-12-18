@@ -54,8 +54,8 @@ Enjoy the dynamic quiz experience and challenge yourself with shuffled questions
 
 ## Dependencies
 
-- Flutter: [Insert Flutter Version]
-- Dart: [Insert Dart Version]
+- Flutter: 3.10.6
+- Dart: 3.0.6
 
 ## Contributors
 
