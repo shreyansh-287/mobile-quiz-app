@@ -59,8 +59,4 @@ Enjoy the dynamic quiz experience and challenge yourself with shuffled questions
 
 ## Contributors
 
-*Shreyansh Pathak*
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+**Shreyansh Pathak**
